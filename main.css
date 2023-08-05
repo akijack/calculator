@@ -1,0 +1,25 @@
+.calculator {
+  margin: 30px 0;
+  text-align: center;
+}
+
+input {
+  font-size: 30px;
+  width: 20%;
+  margin-bottom: 10px;
+  text-align: right;
+}
+
+button {
+  font-size: 30px;
+  width: 5%;
+  height: 10%;
+  vertical-align: middle;
+  margin: 5px;
+  border-radius: 10px;
+  background-color: #DDD;
+}
+
+button:hover {
+  background-color: #CCC;
+}
